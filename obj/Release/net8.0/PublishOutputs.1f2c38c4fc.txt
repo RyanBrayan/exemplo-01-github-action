@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\TestandoDocker\out\TestandoDocker.exe
+C:\Users\USER\source\repos\TestandoDocker\out\TestandoDocker.dll
+C:\Users\USER\source\repos\TestandoDocker\out\TestandoDocker.deps.json
+C:\Users\USER\source\repos\TestandoDocker\out\TestandoDocker.runtimeconfig.json
+C:\Users\USER\source\repos\TestandoDocker\out\TestandoDocker.pdb

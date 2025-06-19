@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\TestandoDocker\bin\Release\net8.0\TestandoDocker.exe
+C:\Users\USER\source\repos\TestandoDocker\bin\Release\net8.0\TestandoDocker.deps.json
+C:\Users\USER\source\repos\TestandoDocker\bin\Release\net8.0\TestandoDocker.runtimeconfig.json
+C:\Users\USER\source\repos\TestandoDocker\bin\Release\net8.0\TestandoDocker.dll
+C:\Users\USER\source\repos\TestandoDocker\bin\Release\net8.0\TestandoDocker.pdb
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.AssemblyInfo.cs
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.sourcelink.json
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.dll
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\refint\TestandoDocker.dll
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.pdb
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\TestandoDocker.genruntimeconfig.cache
+C:\Users\USER\source\repos\TestandoDocker\obj\Release\net8.0\ref\TestandoDocker.dll
